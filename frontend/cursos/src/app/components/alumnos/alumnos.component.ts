@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./alumnos.component.css']
 })
 export class AlumnosComponent {
+  // titulo: string = 'Listado de Alumnos'; // El tipo de puede omitir, ya que se asume que es un string
+  titulo = 'Listado de Alumnos';
 
+  // constructor() {}
+  // ngOnInit() {}
 }
