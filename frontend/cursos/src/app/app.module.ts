@@ -8,6 +8,7 @@ import { CursosComponent } from './components/cursos/cursos.component';
 import { ExamenesComponent } from './components/examenes/examenes.component';
 import { LayoutModule } from './layout/layout.module';
 import { HttpClientModule } from '@angular/common/http';
+// import { HttpClient } from '@angular/common/http';
 
 
 @NgModule({
